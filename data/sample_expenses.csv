@@ -1,0 +1,41 @@
+date,amount,description,merchant,category,payment_method
+2026-01-02,280,Breakfast at cafe,Cafe Brew,Food,UPI
+2026-01-04,1800,Weekly groceries,Fresh Mart,Food,Card
+2026-01-05,950,Uber office commute,Uber,Travel,UPI
+2026-01-07,4200,Apartment rent,Green Residency,Rent,Net Banking
+2026-01-09,699,Movie and snacks,CineHub,Entertainment,Card
+2026-01-12,1250,Electricity bill,City Power,Bills,UPI
+2026-01-14,1999,Online shopping,Amazon,Shopping,Card
+2026-01-16,540,Pharmacy purchase,HealthPlus,Health,UPI
+2026-01-20,1200,Course subscription,Udemy,Education,Card
+2026-01-24,850,Dinner order,Swiggy,Food,UPI
+2026-02-02,320,Breakfast at cafe,Cafe Brew,Food,UPI
+2026-02-04,2100,Monthly groceries,Fresh Mart,Food,Card
+2026-02-06,1100,Airport cab,Uber,Travel,UPI
+2026-02-07,4200,Apartment rent,Green Residency,Rent,Net Banking
+2026-02-10,799,Streaming and snacks,Netflix,Entertainment,Card
+2026-02-11,1450,Water and electricity bill,City Power,Bills,UPI
+2026-02-14,2599,Festival shopping,Flipkart,Shopping,Card
+2026-02-18,890,Doctor consultation,City Clinic,Health,UPI
+2026-02-21,1350,Learning subscription,Coursera,Education,Card
+2026-02-25,990,Dinner order,Zomato,Food,UPI
+2026-03-02,300,Tea and breakfast,Cafe Brew,Food,UPI
+2026-03-04,2350,Groceries and essentials,Fresh Mart,Food,Card
+2026-03-05,850,Metro recharge,Metro Smart Card,Travel,Wallet
+2026-03-07,4200,Apartment rent,Green Residency,Rent,Net Banking
+2026-03-09,1199,Weekend outing,CineHub,Entertainment,Card
+2026-03-12,1580,Electricity bill,City Power,Bills,UPI
+2026-03-14,3299,Electronics accessory,Amazon,Shopping,Card
+2026-03-16,640,Medicines,HealthPlus,Health,UPI
+2026-03-19,1499,AI course,Udemy,Education,Card
+2026-03-25,1120,Food delivery,Swiggy,Food,UPI
+2026-04-01,340,Breakfast and coffee,Cafe Brew,Food,UPI
+2026-04-03,2450,Groceries run,Fresh Mart,Food,Card
+2026-04-05,980,Airport transfer,Ola,Travel,UPI
+2026-04-07,4200,Apartment rent,Green Residency,Rent,Net Banking
+2026-04-11,899,Movie tickets,CineHub,Entertainment,Card
+2026-04-12,1675,Electricity bill,City Power,Bills,UPI
+2026-04-15,2799,Online shopping,Amazon,Shopping,Card
+2026-04-18,730,Lab tests,City Clinic,Health,UPI
+2026-04-21,1599,Upskilling course,Coursera,Education,Card
+2026-04-27,1180,Dinner delivery,Zomato,Food,UPI

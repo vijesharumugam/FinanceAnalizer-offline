@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: finance-analyzer-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: finance_analyzer
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  app:
+    build: .
+    container_name: finance-analyzer-app
+    restart: unless-stopped
+    depends_on:
+      - mysql
+    env_file:
+      - .env
+    ports:
+      - "8501:8501"
+
+volumes:
+  mysql_data:
